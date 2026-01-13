@@ -33,10 +33,10 @@ dependencies:
   geolocator_android: 4.6.1
   material_design_icons_flutter: ^7.0.7296
   package_info_plus: ^8.0.0
-  dart_jsonwebtoken: ^2.12.1
+  dart_jsonwebtoken: ^3.3.1
   crypto: ^3.0.3
-  flutter_form_builder: ^9.1.1
-  form_builder_validators: ^10.0.1
+  flutter_form_builder: ^10.0.0
+  form_builder_validators: ^11.0.0
   flutter_html: 3.0.0-beta.2
   universal_html: ^2.2.4
   universal_platform: ^1.0.0+1
@@ -62,7 +62,7 @@ dependencies:
   expandable: ^5.0.1
   focused_menu: ^1.0.5
   flutter_esp_ble_prov: ^0.1.7
-  esp_smartconfig: ^2.0.4
+  esp_smartconfig: ^3.0.0
   permission_handler: ^11.3.1
   wifi_scan: ^0.4.1+1
   open_settings_plus: ^0.4.0
