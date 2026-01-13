@@ -1,7 +1,7 @@
 name: thingsboard_app
 description: Flutter ThingsBoard Mobile Application
 
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 version: 1.7.0+8
 
@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   thingsboard_client: ^4.0.0
-  intl: ^0.19.0
+  intl: ^0.20.2
   flutter_secure_storage: ^9.0.0
   flutter_speed_dial: ^7.0.0
   cupertino_icons: ^1.0.6
@@ -124,7 +124,7 @@ flutter_launcher_icons:
   background_color_ios: "#ffffff"
   desaturate_tinted_to_grayscale_ios: true
   remove_alpha_ios: true
-  # ios 18+ icon 
+  # ios 18+ icon
   image_path_ios_dark_transparent: "assets/branding/icon_foreground.png"
   # ios 26 liquid glass icon currently this config is not implemented
   # image_path_ios_liquid_glass_icon: "assets/branding/icon_liquid_glass_ios.png"
@@ -138,7 +138,7 @@ flutter_launcher_icons:
 flutter_intl:
   enabled: true
 flutter_gen:
-  output: lib/generated 
+  output: lib/generated
   integrations:
     image: true
     flutter_svg: true
